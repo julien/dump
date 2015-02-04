@@ -1,0 +1,19 @@
+{
+  "name": "dump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/request.js",
+
+  "dependencies": {
+    "expect.js": "latest",
+    "istanbul": "latest",
+    "mocha": "latest"
+  },
+
+  "scripts": {
+    "test": "open tests.html"
+  },
+
+  "author": "",
+  "license": "ISC"
+}
